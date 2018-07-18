@@ -95,7 +95,7 @@ h2 {
 .carousel-inner {
   width: 560px;
   height: 315px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .carousel-control-prev {
